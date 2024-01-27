@@ -174,7 +174,7 @@
     "@types/lodash": "4.14.195",
     "@types/node": "18.16.9",
     "@types/papaparse": "5.3.7",
-    "@types/passport-google-oauth20": "2.0.11",
+    "@types/passport-google-oauth20": "2.0.14",
     "@typescript-eslint/eslint-plugin": "5.51.0",
     "@typescript-eslint/parser": "5.51.0",
     "codelyzer": "6.0.1",
